@@ -1,2 +1,3 @@
-# python-practices
-Simple CLI Python Practice Apps
+# Python Practices
+
+Simple Terminal Python Mini Projects
